@@ -14,7 +14,7 @@ On Computer
 7. Now paste the repository link which looks like "git remote add origin https://github.com/harshavarthanep/project.git"
 8. git config --global push.autoSetupRemote true
 9. git push
-If 8 & 9 didn't work then do 10 & 11
+//If 8 & 9 didn't work then do 10 & 11
 10. git commit -m "TEST"
 11. git push origin master
 
